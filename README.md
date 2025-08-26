@@ -6,6 +6,19 @@ It provides real-time messaging, groups, DMs, polls, file sharing, voice notes, 
 
 ---
 
+## 🖼️ Screenshots
+
+### Register Page
+![Register Page](register.jpg)
+
+### Chat Window
+![Chat Window](chat.jpg)
+
+### Group Page
+![Group Page](group.jpg)
+
+---
+
 ## ✨ Features
 - 🔐 User login & registration with CAPTCHA
 - 👥 Global chat + private groups with multiple channels
