@@ -27,12 +27,12 @@ It provides real-time messaging, groups, DMs, polls, file sharing, voice notes, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/GROUPV4.5.git
+git clone https://github.com/blei920/Private-Chat.git
 ```
 
 2.Open cd
 ```bash
-cd GROUPV4.5
+cd Private-Chat
 ```
 
 3. Install modules
@@ -42,7 +42,7 @@ pip install flask flask-socketio requests beautifulsoup4
 
 4. Run the server
 ```bash
-python GROUPV4.5.py
+python3 GROUPV4.5.py
 ```
 
 5. Open in your browser
