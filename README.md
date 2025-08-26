@@ -9,13 +9,13 @@ It provides real-time messaging, groups, DMs, polls, file sharing, voice notes, 
 ## 🖼️ Screenshots
 
 ### Register Page
-![Register Page](register.jpg)
+<img src="register.jpg" alt="Register Page" width="400" height="auto"/>
 
 ### Chat Window
-![Chat Window](chat.jpg)
+<img src="chat.jpg" alt="Chat Window" width="400" height="auto"/>
 
 ### Group Page
-![Group Page](group.jpg)
+<img src="group.jpg" alt="Group Page" width="400" height="auto"/>
 
 ---
 
